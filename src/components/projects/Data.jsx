@@ -1,26 +1,33 @@
-import Project1 from "../../assets/project1.webp";
-import Project2 from "../../assets/project2.webp";
-import Project3 from "../../assets/project3.webp";
+import projectA from "../../assets/projectA.png";
+import ProjectB from "../../assets/projectB.png";
+import ProjectC from "../../assets/ProjectC.png";
+import ProjectD from "../../assets/projectD.png";
 
 
 export const projectsData = [
     {
         id: 1,
-        image: Project1,
-        title: "Project 1",
+        image: projectA,
+        title: "Project Donut Order",
         category: "A",
     },
     {
         id: 2,
-        image: Project2,
-        title: "Project 2",
+        image: ProjectB,
+        title: "Project Elektronik Store",
         category: "B",
     },
     {
         id: 3,
-        image: Project3,
-        title: "Project 3",
+        image: ProjectC,
+        title: "Project E-Commerce",
         category: "C",
+    },
+    {
+        id: 4,
+        image: ProjectD,
+        title: "Project Government Money Converter",
+        category: "D",
     },
 ];
 
@@ -37,4 +44,7 @@ export const projectsNav = [
     {
         name: "C",
     },
+    {
+        name: "D",
+    }
 ];

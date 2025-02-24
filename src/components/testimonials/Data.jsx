@@ -6,19 +6,19 @@ export const Data = [
     {
         id: 1,
         image: Image1,
-        title: "Kris C.",
-        description: "Executed the concept with clarity and adaptability.",
+        title: "Aqilla",
+        description: "Website yang menarik dan dynamis, dengan tampilan yang menarik.",
     },
     {
         id: 2,
         image: Image2,
-        title: "Mark S.",
-        description: "Provided creative insight and improvment to the project.",
+        title: "Fabyan",
+        description: "website yang menarik dan mudah digunakan.",
     },
     {
         id: 3,
         image: Image3,
-        title: "Gemma B.",
-        description: "Fixed the glitch and made the site easier to use.",
+        title: "Keisha.",
+        description: "Progres website yang cepat dan mudah digunakan.",
     },
 ];
