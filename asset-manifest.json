@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f18b609d.css",
+    "main.js": "/static/js/main.84811601.js",
+    "static/media/aboutBW.jpeg": "/static/media/aboutBW.75fd499823e4c65156b1.jpeg",
+    "static/media/profileBW.jpeg": "/static/media/profileBW.75fd499823e4c65156b1.jpeg",
+    "static/media/projectA.png": "/static/media/projectA.b1b9c45cd90a8e1c2195.png",
+    "static/media/projectB.png": "/static/media/projectB.b45c8b8253a8363a6c43.png",
+    "static/media/ProjectC.png": "/static/media/ProjectC.7a900ce540ddcbb9ca5d.png",
+    "static/media/projectD.png": "/static/media/projectD.5861f5c28c5fe908d021.png",
+    "static/media/woman1.png": "/static/media/woman1.bf207e1501b3e3a89339.png",
+    "static/media/woman2.png": "/static/media/woman2.1badb7321889e9b9ceaf.png",
+    "static/media/man.png": "/static/media/man.58008a565ab6f0db4d93.png",
+    "static/media/Example-Cv.pdf": "/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/index.html",
+    "main.f18b609d.css.map": "/static/css/main.f18b609d.css.map",
+    "main.84811601.js.map": "/static/js/main.84811601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f18b609d.css",
+    "static/js/main.84811601.js"
+  ]
+}
