@@ -25,7 +25,7 @@ const Footer = () => {
                 <a href="https://github.com/vanitas2126" className="home__social-icon" target="_blank" rel="noreferrer">
                     <FiGithub />
                 </a>
-                <a href="https://www.linkedin.com/in/daud-zulfikar-24325025b/" className="home__social-icon" target="_blank" rel="noreferrer" >
+                <a href="https://www.linkedin.com/in/daud-zulfikar-917b5a365/" className="home__social-icon" target="_blank" rel="noreferrer" >
                     <FiLinkedin />
             </a>
             </div>
